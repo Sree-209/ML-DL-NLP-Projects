@@ -1,0 +1,4 @@
+MultiLingual-Hate-Speech-Detection/dataset/
+MultiLingual-Hate-Speech-Detection/cleaned_hate_speech_with_profanity.csv/
+MultiLingual-Hate-Speech-Detection/extracted_memes_english_only.csv
+MultiLingual-Hate-Speech-Detection/meme_text_with_hateOrnot_clean.csv
